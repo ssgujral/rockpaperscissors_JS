@@ -1,1 +1,1 @@
-# rockpaperscissors_JS
+Rock, Paper, Scissors in Javascript!
